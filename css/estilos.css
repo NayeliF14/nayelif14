@@ -6,7 +6,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #fff;
+  background: rgb(3, 1, 12);
   font-family: "Open Sans";
   font-size: 16px; }
 
@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/bg.jpg"), #49A3D6;
+  background: url("../img/bg.jpg"), #8335eb;
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
@@ -47,7 +47,7 @@ header {
       text-align: center;
       padding: 20px 60px; }
       header .contenedor-texto .texto h1, header .contenedor-texto .texto h2 {
-        color: #fff;
+        color: rgb(0, 3, 0);
         font-weight: 300;
         margin: 0; }
       header .contenedor-texto .texto .nombre {
